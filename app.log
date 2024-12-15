@@ -1,0 +1,23 @@
+2024-12-12 11:03:18,230 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:03:18,758 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 200 None
+2024-12-12 11:03:35,077 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:03:35,248 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 200 None
+2024-12-12 11:03:53,416 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:03:53,654 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 200 None
+2024-12-12 11:04:07,353 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:04:07,555 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 401 73
+2024-12-12 11:04:54,068 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:04:54,521 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 401 73
+2024-12-12 11:05:25,592 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:05:26,027 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 401 73
+2024-12-12 11:05:26,035 - WARNING - Could not authenticate the user
+2024-12-12 11:06:56,864 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:06:57,431 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 401 73
+2024-12-12 11:06:57,437 - WARNING - Could not authenticate the user
+2024-12-12 11:07:24,520 - WARNING - Could not authenticate the user
+2024-12-12 11:07:30,442 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:07:30,817 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 401 73
+2024-12-12 11:07:30,825 - WARNING - Could not authenticate the user
+2024-12-12 11:08:20,753 - DEBUG - Starting new HTTPS connection (1): api-t1.fyers.in:443
+2024-12-12 11:08:21,149 - DEBUG - https://api-t1.fyers.in:443 "GET /api/v3/profile HTTP/11" 200 None
+2024-12-12 11:08:21,155 - INFO - Client ID: DL00155, Name: LUCKY KUSHWAHA Connected!
